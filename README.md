@@ -6,10 +6,9 @@
 
 ## About Me 🚀
 
-I'm Yuthara Jayanetti, a passionate Data Scientist and Python Developer from Colombo, Sri Lanka. I specialize in transforming data into actionable insights and am currently focused on:
+I'm Yuthara Jayanetti, a passionate Data Science Undergraduate from Colombo, Sri Lanka. I specialize in transforming data into actionable insights and am currently focused on:
 
 - 📚 Data Science and Machine Learning
-- 🐍 Python Development
 - 📊 Data Visualization
 - 🤖 AI/ML Projects
 
