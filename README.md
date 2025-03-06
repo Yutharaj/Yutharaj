@@ -12,15 +12,6 @@ I'm Yuthara Jayanetti, a passionate Data Science Undergraduate from Colombo, Sri
 - 📊 Data Visualization
 - 🤖 AI/ML Projects
 
-## My GitHub Stats 📈
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YutharaJayanetti&theme=dark)](https://git.io/streak-stats)
-
-<img src="https://github-readme-stats.vercel.app/api?username=YutharaJayanetti&show_icons=true&theme=dark" alt="GitHub Stats" />
-
-</div>
 
 ## Languages & Tools 🛠️
 
@@ -32,14 +23,6 @@ I'm Yuthara Jayanetti, a passionate Data Science Undergraduate from Colombo, Sri
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</div>
-
-## My Latest Projects 🎯
-
-<div align="center">
-
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=YutharaJayanetti&repo=project-name&theme=dark)](https://github.com/YutharaJayanetti/project-name)
 
 </div>
 
